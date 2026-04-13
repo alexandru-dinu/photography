@@ -1,0 +1,11 @@
+[project]
+name = "photography"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "hiplot>=0.1.33",
+    "loguru>=0.7.3",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.2",
+    "seaborn>=0.13.2",
+]
